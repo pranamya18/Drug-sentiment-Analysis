@@ -10,4 +10,4 @@ Positive Rating >= 7
 Neutral Rating = 5 or 6,
 Negative Rating <= 4
 
-![image](https://github.com/pranamya18/Drug-sentiment-Analysis/assets/49710041/cf7eb111-263d-4d90-9371-e144fa1aab97)
+
